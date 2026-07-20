@@ -1,1 +1,1 @@
-g
+# Trading Bot - Gates / Alinyxe
